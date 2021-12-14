@@ -5,7 +5,7 @@
   *Intern Student*
   
   ### Explanation 
-  ### It consists of 4 parts: spring, summer, autumn and winter. After these sections are passed, you are trying to pass to other countries.
+  ### Try to shooter the enemies by moving the character left and right or you will die.
   <br />
   
   
