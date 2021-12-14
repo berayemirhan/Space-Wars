@@ -4,7 +4,7 @@
   ### Hi there, I'm Beray Emirhan 😊
   *Intern Student*
   
-  ### Explanation 
+  ### Explanation 🔽
   ### Try to shooter the enemies by moving the character left and right or you will die.
   <br />
   
