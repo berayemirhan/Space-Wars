@@ -10,7 +10,7 @@ public class RandomSpawner : MonoBehaviour
 
     void Start()
     {
-        
+        sayac = 0;
     }
 
     
@@ -19,7 +19,7 @@ public class RandomSpawner : MonoBehaviour
         sayac -= Time.deltaTime;
         if (sayac<=0)
         {
-            sayac = 3f;
+            sayac = 2f;
             int RandEnemy = Random.Range(0, EnemyPrefebs.Length);
             int RandSpawnPoint = Random.Range(0, SpawnPoınts.Length);
 

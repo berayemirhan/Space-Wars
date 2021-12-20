@@ -22,4 +22,5 @@ public class Directions: MonoBehaviour
     {
         SceneManager.LoadScene(0);
     }
+    
 }
