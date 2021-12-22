@@ -31,7 +31,7 @@
      ### Game Image Packet 🎮
   <br />
   
-  <img  src="https://github.com/berayemirhan/Space-Wars/blob/main/Space%20Wars/Assets/İmage/MainMenu.jpg" width="600" height="300">
+  <img  src="https://github.com/berayemirhan/Space-Wars/blob/main/Space%20Wars/Assets/İmage/MainMenu.jpg" width="200" height="600">
   <br />
   <img  src="https://github.com/berayemirhan/Space-Wars/blob/main/Space%20Wars/Assets/İmage/SettingsMenu.jpg" width="600" height="300">
   <br />
