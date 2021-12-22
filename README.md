@@ -31,16 +31,15 @@
      ### Game Image Packet 🎮
   <br />
   
-  <img  src="https://github.com/berayemirhan/Space-Wars/blob/main/Space%20Wars/Assets/İmage/MainMenu.jpg" width="300" height="500">
+  <img  src="https://github.com/berayemirhan/Space-Wars/blob/main/Space%20Wars/Assets/İmage/MainMenu.jpg" width="350" height="500">
   <br />
-  <img  src="https://github.com/berayemirhan/Space-Wars/blob/main/Space%20Wars/Assets/İmage/SettingsMenu.jpg" width="600" height="300">
+  <img  src="https://github.com/berayemirhan/Space-Wars/blob/main/Space%20Wars/Assets/İmage/SettingsMenu.jpg" width="350" height="500">
   <br />
-  <img  src="https://github.com/berayemirhan/Space-Wars/blob/main/Space%20Wars/Assets/İmage/GameMenu.jpg" width="600" height="300">
+  <img  src="https://github.com/berayemirhan/Space-Wars/blob/main/Space%20Wars/Assets/İmage/GameMenu.jpg" width="350" height="500">
   <br />
-  <img  src="https://github.com/berayemirhan/Space-Wars/blob/main/Space%20Wars/Assets/İmage/GameMenu1.jpg" width="600" height="300">
+  <img  src="https://github.com/berayemirhan/Space-Wars/blob/main/Space%20Wars/Assets/İmage/GameMenu1.jpg" width="350" height="500">
   <br />
-  <img  src="https://github.com/berayemirhan/Game-Project/blob/main/SuperAdam/Readmeİmage/game2.JPG" width="600" height="300">
-  <br />
+ 
   
   
   
